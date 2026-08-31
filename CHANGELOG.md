@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### `Added`
 
+- [#XXX](https://github.com/nf-core/seqinspector/pull/XXX) Add riker RNA metrics support via `--rna_gene_model` and `--rna_ribosomal_intervals` (@emmcauley)
+
 ### `Fixed`
 
 ### `Changed`
